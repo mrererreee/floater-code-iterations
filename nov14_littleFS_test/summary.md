@@ -7,9 +7,9 @@ right now, this program:
     - sends garbage values, appearing to be esp32 debug statements and random characters
 
 to-do:
-~~1. identify the issue so that clean data is saved to a file~~
+1. ~~identify the issue so that clean data is saved to a file~~
 2. build a task that sends the txt file over bluetooth and dumps it (cannot run on same program)
-~~3. make sure that the time count represents a sample every 5s~~
+3. ~~make sure that the time count represents a sample every 5s~~
 4. for testing purposes, wait for a char from serial input before running the program so samplelog isnt auto-updating lol
 5. possible to upload to csv file?
 
